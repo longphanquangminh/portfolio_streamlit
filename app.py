@@ -53,9 +53,11 @@ txt('## Summary')
 # col.markdown('## Summary')
 _, col, _ = st.columns((1,3,1))
 col.success('''
-- I'm interested in AI, Machine Learning, Computer Vision, NLP, Data Processing, Data Visualization.
-- I love nature. I love trees 🌲 , lakes, mountains, ... I love sunny, and if I have a window, I always want it to open!
-- I like running, cycling, ... And during the time I run, I like listening to Podcast. My favorite author is [The Present Writter](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMjZkNjc2Yy9wb2RjYXN0L3Jzcw) (Ms. Chi Nguyen)
+💫 About Me:
+- 🌱 I’m currently learning ReactJS 😄
+- 💬 Ask me about everything 🤔
+- 📫 How to reach me: Contact me via email <a href="mailto:longpqm19406c@st.uel.edu.vn">here</a>
+- ⚡ Fun fact: I love to watch Japanese anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px">
 ''')
 
 #####################
