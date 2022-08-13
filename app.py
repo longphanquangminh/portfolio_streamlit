@@ -64,13 +64,13 @@ col.success('''
 txt('''
 ## Contact Infomation
 ''')
-txt2('Phone', '0852197589')
-txt2('Zalo', '0852197589')
+txt2('Phone', '[0852197589](tel:+84852197589)')
+txt2('Zalo', '[0852197589](https://zalo.me/0852197589)')
 txt2('Address', 'District 10, Ho Chi Minh City, Vietnam')
 txt2('Email', '[longpqm19406c@st.uel.edu.vn](mailto:longpqm19406c@st.uel.edu.vn)')
-txt2('LinkedIn', 'https://leetcode.com/minhlonggithub')
-txt2('GitHub', 'https://github.com/minhlonggithub')
-txt2('Leetcode', 'https://leetcode.com/LeNguyenGiaBao/')
+txt2('LinkedIn', 'https://www.linkedin.com/in/phanquangminhlong')
+txt2('GitHub', 'https://github.com/longphanquangminh')
+txt2('Leetcode', 'https://leetcode.com/longphanquangminh')
 txt2('Facebook', 'https://www.facebook.com/pqmlong265')
 
 #####################
