@@ -53,11 +53,11 @@ txt('## Summary')
 # col.markdown('## Summary')
 _, col, _ = st.columns((1,3,1))
 col.success('''
-💫 About Me:
+💫  About Me:
 - 🌱 I’m currently learning ReactJS 😄
 - 💬 Ask me about everything 🤔
-- 📫 How to reach me: Contact me via email [here](mailto:longpqm19406c@st.uel.edu.vn)
-- ⚡ Fun fact: I love to watch Japanese anime.
+- 📫 Contact me via email [here](mailto:longpqm19406c@st.uel.edu.vn)
+- ⚡ I love to watch Japanese anime.
 ''')
 
 #####################
