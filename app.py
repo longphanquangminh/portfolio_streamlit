@@ -59,7 +59,7 @@ Throughout my university years, I've participated in various competitions, activ
 - 🌱 I’m currently learning ReactJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email [here](mailto:longpqm19406c@st.uel.edu.vn)
-- ⚡ I love to read Japanese manga and watch anime: `Dragon Ball (Super)`,  `One Piece`,  `Spy X Family`, ...
+- ⚡ I love to read Japanese manga and watch anime:  `Dragon Ball (Super)`,  `One Piece`,  `Spy X Family`, ...
 ''')
 
 #####################
