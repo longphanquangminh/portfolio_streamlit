@@ -47,7 +47,7 @@ img_column.image(image, use_column_width  = True)
 
 st.write('''
 # PHAN QUANG MINH LONG
-##### A Developer from [Vietnam](https://en.wikipedia.org/wiki/Vietnam) 🇻🇳  
+##### A future Front-end Developer from [Vietnam](https://en.wikipedia.org/wiki/Vietnam) 🇻🇳  
 ''')
 txt('## Summary')
 # col.markdown('## Summary')
@@ -106,6 +106,8 @@ txt('''
 ''')
 txt1('**Organizer, content creator & designer of Media Department**, *[ITB Club](https://www.facebook.com/itbclub.uel)*, Vietnam',
 '09/2019 - 12/2020')
+txt1('**Internship Trainee**, *[ISC Quang Trung](https://www.iscquangtrung.edu.vn)*, Vietnam',
+'11/2021 - 03/2022')
 txt1('**Academic Management Collaborator**, *[iGen Group](https://igen.world)*, Vietnam',
 '05/2022 - 07/2022')
 txt1('**Apprenticeship**, *[CrossTech](https://crosstechhub.com)*, Vietnam',
