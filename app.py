@@ -120,7 +120,7 @@ txt('''
 ## Project
 ''')
 txt4('Reservation System','','https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1')
-txt4('Beverage Recognition', 'The website is used to identify vehicles, assess and visualize traffic conditions in Ho Chi Minh City, Vietnam. Using `SSD Object Detection` and real camera data from Ho Chi Minh', 'https://github.com/longphanquangminh/streamlit-beverage-recognition')
+txt4('Beverage Recognition', 'The project is used to identify beverage brands in Vietnam. Based on data about photos of beverage products that the team collects themselves on [Kaggle](https://www.kaggle.com) and [Google](https://www.google.com), our team has built a model that can recognize logos of beverage brands in Vietnam using `SSD Object Detection` and `CNN`.', 'https://github.com/longphanquangminh/streamlit-beverage-recognition')
 txt4('Unity AR UEL App','','CH Play: https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi')
 txt4('MarPet Website','','https://github.com/Pet-Shop-Dev')
 txt4('KMS ImageFinder','','https://fe-oql27hnv2q-as.a.run.app/home')
