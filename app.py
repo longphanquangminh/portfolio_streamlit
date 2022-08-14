@@ -108,6 +108,10 @@ txt('''
 ''')
 txt1('**Organizer, content creator & designer of Media Department**, *[ITB Club](https://www.facebook.com/itbclub.uel)*, Vietnam',
 '`09/2019 - 12/2020`')
+txt1('**Organizer**, *[Ecommerce Unitour UEL](https://www.facebook.com/EcommerceUnitour)*, Vietnam',
+'`12/2019`')
+txt1('**Connector & part-time designer**, *[CCA UEL](https://www.facebook.com/cca.uel.edu.vn)*, Vietnam',
+'`01/2020 - 11/2020`')
 txt1('**Internship Trainee**, *[ISC Quang Trung](https://www.iscquangtrung.edu.vn)*, Vietnam',
 '`11/2021 - 03/2022`')
 txt1('**Academic Management Collaborator**, *[iGen Group](https://igen.world)*, Vietnam',
