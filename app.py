@@ -85,7 +85,7 @@ txt('''
 - Management Information System
 - GPA: `7.5 / 10`
 - Scholarship for High performance student - 05/2021
-- Student with 5 Merits (good morality, good study, good health, good volunteer and good integration) - Faculty Level - 11/2021
+- Student with 5 Merits - Faculty Level - 11/2021
 ''')
 
 txt1('**Business Analysis & Product Design**,  *[Business Analyst Training Center](https://www.bacs.vn)*, Vietnam',
