@@ -104,7 +104,7 @@ txt('''
 txt('''
 ## Work Experience
 ''')
-txt1('**Organizer, communicator, content creator & designer of Media Department**, *[ITB Club](https://www.facebook.com/itbclub.uel)*',
+txt1('**Organizer, content creator & designer of Media Department**, *[ITB Club](https://www.facebook.com/itbclub.uel)*',
 '09/2019 - 12/2020')
 txt1('**Academic Management Collaborator**, *[iGen Group](https://igen.world)*, Vietnam',
 '05/2022 - 07/2022')
