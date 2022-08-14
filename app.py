@@ -47,7 +47,7 @@ img_column.image(image, use_column_width  = True)
 
 st.write('''
 # PHAN QUANG MINH LONG
-##### Future Front-end Developer from [Vietnam](https://en.wikipedia.org/wiki/Vietnam) 🇻🇳  
+##### A Front-end Developer from [Vietnam](https://en.wikipedia.org/wiki/Vietnam) 🇻🇳  
 ''')
 txt('## Summary')
 # col.markdown('## Summary')
@@ -59,7 +59,7 @@ Throughout my university years, I've participated in various competitions, activ
 - 🌱 I’m currently learning ReactJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email [here](mailto:longpqm19406c@st.uel.edu.vn)
-- ⚡ I love to watch 🇯🇵 anime:  `Dragon Ball (Super)`,  `One Piece`,  `Spy X Family`, ...
+- ⚡ I love to watch 🇯🇵 anime:  `Dragon Ball`,  `One Piece`,  `Spy X Family`, ...
 ''')
 
 #####################
@@ -79,13 +79,13 @@ txt2('Instagram', '[minhlong909](https://www.instagram.com/minhlong909)')
 #####################
 txt('## Education')
 # col.markdown('## Education')
-txt1('**Final Year Student**,  *[VNUHCM-University of Economics and Law](https://en.wikipedia.org/wiki/University_of_Economics_and_Law)*, Vietnam',
+txt1('**Senior Student**,  *[VNUHCM-University of Economics and Law](https://en.wikipedia.org/wiki/University_of_Economics_and_Law)*, Vietnam',
 '08/2019 - present')
 txt('''
 - Management Information System
 - Current GPA: `7.5 / 10`
-- Scholarship for High performance student - 05/2021
-- Student with 5 Merits - Faculty Level - 11/2021
+- Scholarship for High performance student `05/2021`
+- Student with 5 Merits - Faculty Level `11/2021`
 ''')
 
 txt1('**Business Analysis & Product Design**,  *[Business Analyst Training Center](https://www.bacs.vn)*, Vietnam',
