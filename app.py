@@ -36,7 +36,7 @@ def txt4(a, b, c): # 3 columns
   with col3:
     st.markdown(c)
 
-st.set_page_config(page_title='Phan Quang Minh Long - Portfolio',page_icon="☀", layout="wide")
+st.set_page_config(page_title='Phan Quang Minh Long - Portfolio',page_icon="./image/logoML.png", layout="wide")
 
 with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
@@ -66,22 +66,23 @@ txt('''
 ''')
 txt2('Phone', '[0852197589](tel:+84852197589)')
 txt2('Zalo', '[0852197589](https://zalo.me/0852197589)')
-txt2('Address', 'District 10, Ho Chi Minh City, Vietnam')
+txt2('Address', '[District 10, Ho Chi Minh City, Vietnam](https://www.google.com/maps/place/District+10,+Ho+Chi+Minh+City/@10.7727179,106.669428,15z/data=!3m1!4b1!4m5!3m4!1s0x31752edc7bd9fd65:0x7500396cc3a60d04!8m2!3d10.7745965!4d106.6679542)')
 txt2('Email', '[longpqm19406c@st.uel.edu.vn](mailto:longpqm19406c@st.uel.edu.vn)')
-txt2('LinkedIn', 'https://www.linkedin.com/in/phanquangminhlong')
-txt2('GitHub', 'https://github.com/longphanquangminh')
-txt2('Leetcode', 'https://leetcode.com/longphanquangminh')
-txt2('Facebook', 'https://www.facebook.com/pqmlong265')
+txt2('LinkedIn', '[phanquangminhlong](https://www.linkedin.com/in/phanquangminhlong)')
+txt2('GitHub', '[longphanquangminh](https://github.com/longphanquangminh)')
+txt2('Leetcode', '[longphanquangminh](https://leetcode.com/longphanquangminh)')
+txt2('Facebook', '[pqmlong265](https://www.facebook.com/pqmlong265)')
+txt2('Instagram', '[minhlong909](https://www.instagram.com/minhlong909)')
 
 #####################
 txt('## Education')
 # col.markdown('## Education')
-txt1('**Final Year Student**,  *[Ho Chi Minh University of Technology and Education](https://hcmute.edu.vn/)*, Vietnam',
+txt1('**Final Year Student**,  *[VNUHCM-University of Economics and Law](https://en.wikipedia.org/wiki/University_of_Economics_and_Law)*, Vietnam',
 '09/2018 - Present')
 txt('''
-- Software Technology
-- GPA: `3.38`
-- Student with 5 Merits - University Level - 01/2022
+- Management Information System
+- GPA: `7.5 / 10`
+- Student with 5 Merits - Faculty Level - 09/2021
 ''')
 
 txt1('**AI Developer Course**,  *ISC Quang Trung*, Vietnam',
