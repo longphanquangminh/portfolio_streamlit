@@ -59,7 +59,7 @@ Throughout my university years, I've participated in various competitions, activ
 - 🌱 I’m currently learning ReactJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email [here](mailto:longpqm19406c@st.uel.edu.vn)
-- ⚡ I love to watch Japanese anime.
+- ⚡ I love to read Japanese manga and watch anime: `Dragon Ball (Super)`,  `One Piece`,  `Spy X Family`, ...
 ''')
 
 #####################
@@ -117,13 +117,13 @@ txt1('**Bootcamp''s Participant**, *[KMS Technology, Inc.](https://www.linkedin.
 
 #####################
 txt('''
-## Project
+## My Finished Projects
 ''')
-txt4('Reservation System','','https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1')
+txt4('Reservation System','In order to comply with epidemic prevention regulations, help customers have a better experience and the restaurant can manage the number of customers more easily, our team has proposed and designed an online reservation system. Build responsive web-app system for user and admin roles. Specially, the mobile interface with CRO buttons provide a better experience for customers.','https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1')
 txt4('Beverage Recognition', 'The project is used to identify beverage brands in Vietnam. Based on data about photos of beverage products that the team collects themselves on [Kaggle](https://www.kaggle.com) and [Google](https://www.google.com), our team has built a model that can recognize logos of beverage brands in Vietnam using `SSD Object Detection` and `CNN`.', 'https://github.com/longphanquangminh/streamlit-beverage-recognition')
-txt4('Unity AR UEL App','','CH Play: https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi')
-txt4('MarPet Website','','https://github.com/Pet-Shop-Dev')
-txt4('KMS ImageFinder','','https://fe-oql27hnv2q-as.a.run.app/home')
+txt4('Unity AR UEL App','Build augmented reality applications by Unity for new college students to discover school information vividly (Faculty-level SCIENCE RESEARCH).','CH Play: https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi')
+txt4('MarPet Website','Our learning team has implemented a website that sells pet food and accessories, specifically dogs and cats, to provide online pet products and services for the spiritual well-being of people. Using `Angular` framework, `Bootstrap`, `MongoDB`, `Node.js` & `Express.js` to build this entire website system.','https://github.com/Pet-Shop-Dev')
+txt4('KMS ImageFinder','Our team won the 1st prize (Technical Challenge Winner) of KMS Fresher Bootcamp 2022 program with the topic "Events: Pictures Finder": Build a tool to make it easier for marathon runners to collect their photos on Facebook and other sites based on their facial traits. My role: Front-end developer (Angular), logo design, support work related to using API on the interface.','https://fe-oql27hnv2q-as.a.run.app/home')
 
 
 #####################
