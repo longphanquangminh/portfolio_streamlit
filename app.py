@@ -75,6 +75,7 @@ txt2('GitHub', '[longphanquangminh](https://github.com/longphanquangminh)')
 txt2('Leetcode', '[longphanquangminh](https://leetcode.com/longphanquangminh)')
 txt2('Facebook', '[pqmlong265](https://www.facebook.com/pqmlong265)')
 txt2('Instagram', '[minhlong909](https://www.instagram.com/minhlong909)')
+txt2('Discord', '[minhlong2605#4963](https://discord.com/channels/@me/995346151031197707)')
 
 #####################
 txt('## Education')
