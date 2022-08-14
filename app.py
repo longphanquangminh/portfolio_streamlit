@@ -83,7 +83,7 @@ txt1('**Final Year Student**,  *[VNUHCM-University of Economics and Law](https:/
 '09/2018 - Present')
 txt('''
 - Management Information System
-- GPA: `7.5 / 10`
+- Current GPA: `7.5 / 10`
 - Scholarship for High performance student - 05/2021
 - Student with 5 Merits - Faculty Level - 11/2021
 ''')
@@ -124,6 +124,12 @@ txt4('Vehicle Detection', 'The website is used to identify vehicles, assess and 
 txt('''
 ## Skills
 ''')
-txt3('Programming (Basic)', '`Python`, `C#`, `SQL`, `Javascript`')
+txt3('Programming', '`Basic C# (Unity AR)`')
 txt3('Python Library (Basic)', '`numpy`, `pandas`, `matplotlib`, ...')
-txt3('Web development', '`Angular`, `HTML`, `CSS`, `Javascript`, `Typescript`')
+# txt3('Web development', '`Angular`, `HTML`, `CSS`, `Javascript`, `Typescript`')
+txt3('Back-end', '`Javascript`, `Node.JS`, `Express.JS`, `MongoDB`')
+txt3('Front-end', '`HTML`, `CSS`, `Javascript`, `Typescript`')
+txt3('Framework', '`Angular`, `Bootstrap`')
+txt3('Database', '`SQL Server`')
+txt3('Tool', '`SQL Server`, `Postman`')
+txt3('Version Control', '`Git`')
