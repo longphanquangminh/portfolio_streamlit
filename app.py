@@ -80,7 +80,7 @@ txt2('Instagram', '[minhlong909](https://www.instagram.com/minhlong909)')
 txt('## Education')
 # col.markdown('## Education')
 txt1('**Final Year Student**,  *[VNUHCM-University of Economics and Law](https://en.wikipedia.org/wiki/University_of_Economics_and_Law)*, Vietnam',
-'08/2019 - Present')
+'08/2019 - present')
 txt('''
 - Management Information System
 - Current GPA: `7.5 / 10`
@@ -119,7 +119,11 @@ txt1('**Bootcamp''s Participant**, *[KMS Technology, Inc.](https://www.linkedin.
 txt('''
 ## Project
 ''')
-txt4('Vehicle Detection', 'The website is used to identify vehicles, assess and visualize traffic conditions in Ho Chi Minh City, Vietnam. Using `SSD Object Detection` and real camera data from Ho Chi Minh', 'https://share.streamlit.io/lenguyengiabao/vehicle_detection/app.py')
+txt4('Reservation System','','https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1')
+txt4('Beverage Recognition', 'The website is used to identify vehicles, assess and visualize traffic conditions in Ho Chi Minh City, Vietnam. Using `SSD Object Detection` and real camera data from Ho Chi Minh', 'https://github.com/longphanquangminh/streamlit-beverage-recognition')
+txt4('Unity AR UEL App','','CH Play: https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi')
+txt4('MarPet Website','','https://github.com/Pet-Shop-Dev')
+txt4('KMS ImageFinder','','https://fe-oql27hnv2q-as.a.run.app/home')
 
 
 #####################
