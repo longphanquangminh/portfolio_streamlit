@@ -55,7 +55,7 @@ _, col, _ = st.columns((1,3,1))
 col.success('''
 I'm Phan Quang Minh Long. I was born in 2001 and I'm a final year Management Information System student at the Faculty of Information Systems of the University of Economics & Law at VNU HCMC.
 Throughout my university years, I've participated in various competitions, activities, and was a collaborator of numerous academic organizations in school in order to gain more knowledge and experience for my future career.
-💫  About Me:
+<br>💫  About Me:
 - 🌱 I’m currently learning ReactJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email [here](mailto:longpqm19406c@st.uel.edu.vn)
