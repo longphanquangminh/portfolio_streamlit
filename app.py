@@ -88,13 +88,13 @@ txt('''
 - Student with 5 Merits (ethics, academic accomplishment, physical fitness, soft skills, integration) - Faculty Level - 11/2021
 ''')
 
-txt1('**Business Analysis & Product Design**,  *Business Analyst Training Center*, Vietnam',
+txt1('**Business Analysis & Product Design**,  *[Business Analyst Training Center](https://www.bacs.vn)*, Vietnam',
 '08/2021 - 10/2022')
 txt('''
 - Final Project: [Online Reservation System](https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1)
 ''')
 
-txt1('**AI Developer Course**,  *ISC Quang Trung*, Vietnam',
+txt1('**AI Developer Course**,  *[ISC Quang Trung](https://www.iscquangtrung.edu.vn)*, Vietnam',
 '11/2021 - 03/2022')
 txt('''
 - Final Project: [Beverage Recognition](https://github.com/longphanquangminh/streamlit-beverage-recognition)
