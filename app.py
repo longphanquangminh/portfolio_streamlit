@@ -84,23 +84,34 @@ txt1('**Final Year Student**,  *[VNUHCM-University of Economics and Law](https:/
 txt('''
 - Management Information System
 - GPA: `7.5 / 10`
-- Student with 5 Merits - Faculty Level - 09/2021
+- Scholarship for High performance student - 05/2021
+- Student with 5 Merits (ethics, academic accomplishment, physical fitness, soft skills, integration) - Faculty Level - 11/2021
+''')
+
+txt1('**Business Analysis & Product Design**,  *BAC - Business Analyst Training Center*, Vietnam',
+'08/2021 - 10/2022')
+txt('''
+- Final Project: [Online Reservation System](https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1)
 ''')
 
 txt1('**AI Developer Course**,  *ISC Quang Trung*, Vietnam',
-'11/2021 - 01/2022')
+'11/2021 - 03/2022')
 txt('''
-- Final Project: [Fashion Recognition](https://share.streamlit.io/lenguyengiabao/fashion_recognition/app.py)
+- Final Project: [Beverage Recognition](https://github.com/longphanquangminh/streamlit-beverage-recognition)
 ''')
 
 #####################
 txt('''
 ## Work Experience
 ''')
-txt1('**Member of Developer Team**, *[Google Developer Student Club HCMUTE](https://www.facebook.com/gdsc.hcmute)*',
+txt1('**Organizer, communicator, content creator & designer of Media Department**, *[ITB Club](https://www.facebook.com/itbclub.uel)*',
 '08/2021 - Present')
-txt1('**Internship**, *Anonymous company*, Vietnam',
-'10/2021 - 01/2022')
+txt1('**Academic Management Collaborator**, *[iGen Group](https://igen.world)*, Vietnam',
+'09/2019 - 12/2020')
+txt1('**Apprenticeship**, *[CrossTech](https://crosstechhub.com)*, Vietnam',
+'06/2022 - 07/2022')
+txt1('**Bootcamp''s Participant**, *[KMS Technology, Inc.](https://www.linkedin.com/company/kms-technology)*, Vietnam',
+'07/2022')
 
 #####################
 txt('''
@@ -118,8 +129,6 @@ txt4('ParkingLot_CNN', 'Using CNN to read license plates and replicate a parking
 txt('''
 ## Skills
 ''')
-txt3('Programming', '`Python`, `Java`, `C#`, `SQL`, `JS`')
-txt3('Python Library', '`numpy`, `opencv`, `pandas`, `matplotlib`, `glob`, `requests`, ...')
-txt3('Machine Learning', 'Supervised Learning, Unsupervised Learning, `scikit learn`')
-txt3('Deep Learning', 'CNN, Object Detection, Transformer, BERT, `TensorFlow`, `Keras`, `PyTorch`')
-txt3('Web development', '`Flask`, `HTML`, `CSS`, `Streamlit`')
+txt3('Programming (Basic)', '`Python`, `C#`, `SQL`, `Javascript`')
+txt3('Python Library (Basic)', '`numpy`, `pandas`, `matplotlib`, ...')
+txt3('Web development', '`Angular`, `HTML`, `CSS`, `Javascript`, `Typescript`')
