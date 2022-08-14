@@ -68,7 +68,7 @@ txt('''
 ''')
 txt2('Phone', '🇻🇳 [(+84) 852 197 589](tel:+84852197589)')
 txt2('Zalo', '🇻🇳 [(+84) 852 197 589](https://zalo.me/0852197589)')
-txt2('Address', '[District 10, Ho Chi Minh City, Vietnam](https://www.google.com/maps/place/District+10,+Ho+Chi+Minh+City/@10.7727179,106.669428,15z/data=!3m1!4b1!4m5!3m4!1s0x31752edc7bd9fd65:0x7500396cc3a60d04!8m2!3d10.7745965!4d106.6679542)')
+txt2('Address', '🇻🇳 [District 10, Ho Chi Minh City, Vietnam](https://www.google.com/maps/place/District+10,+Ho+Chi+Minh+City/@10.7727179,106.669428,15z/data=!3m1!4b1!4m5!3m4!1s0x31752edc7bd9fd65:0x7500396cc3a60d04!8m2!3d10.7745965!4d106.6679542)')
 txt2('Email', '[longpqm19406c@st.uel.edu.vn](mailto:longpqm19406c@st.uel.edu.vn)')
 txt2('LinkedIn', '[phanquangminhlong](https://www.linkedin.com/in/phanquangminhlong)')
 txt2('GitHub', '[longphanquangminh](https://github.com/longphanquangminh)')
@@ -80,7 +80,7 @@ txt2('Instagram', '[minhlong909](https://www.instagram.com/minhlong909)')
 txt('## Education')
 # col.markdown('## Education')
 txt1('**Senior Student**,  *[VNUHCM-University of Economics and Law](https://en.wikipedia.org/wiki/University_of_Economics_and_Law)*, Vietnam',
-'08/2019 - present')
+'`08/2019 - present`')
 txt('''
 - Management Information System
 - Current GPA: `7.5 / 10`
@@ -89,13 +89,13 @@ txt('''
 ''')
 
 txt1('**Business Analysis & Product Design**,  *[Business Analyst Training Center](https://www.bacs.vn)*, Vietnam',
-'08/2021 - 10/2022')
+'`08/2021 - 10/2022`')
 txt('''
 - Final Project: [Online Reservation System](https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1)
 ''')
 
 txt1('**AI Developer Course**,  *[ISC Quang Trung](https://www.iscquangtrung.edu.vn)*, Vietnam',
-'11/2021 - 03/2022')
+'`11/2021 - 03/2022`')
 txt('''
 - Final Project: [Beverage Recognition](https://github.com/longphanquangminh/streamlit-beverage-recognition)
 ''')
@@ -105,15 +105,15 @@ txt('''
 ## Work Experience
 ''')
 txt1('**Organizer, content creator & designer of Media Department**, *[ITB Club](https://www.facebook.com/itbclub.uel)*, Vietnam',
-'09/2019 - 12/2020')
+'`09/2019 - 12/2020`')
 txt1('**Internship Trainee**, *[ISC Quang Trung](https://www.iscquangtrung.edu.vn)*, Vietnam',
-'11/2021 - 03/2022')
+'`11/2021 - 03/2022`')
 txt1('**Academic Management Collaborator**, *[iGen Group](https://igen.world)*, Vietnam',
-'05/2022 - 07/2022')
+'`05/2022 - 07/2022`')
 txt1('**Apprenticeship**, *[CrossTech](https://crosstechhub.com)*, Vietnam',
-'06/2022 - 07/2022')
+'`06/2022 - 07/2022`')
 txt1('**Bootcamp Participant**, *[KMS Technology, Inc.](https://www.linkedin.com/company/kms-technology)*, Vietnam',
-'07/2022')
+'`07/2022`')
 
 #####################
 txt('''
