@@ -47,7 +47,7 @@ img_column.image(image, use_column_width  = True)
 
 st.write('''
 # PHAN QUANG MINH LONG
-##### A Developer from Vietnam 🇻🇳  
+##### A Developer from [Vietnam](https://en.wikipedia.org/wiki/Vietnam) 🇻🇳  
 ''')
 txt('## Summary')
 # col.markdown('## Summary')
@@ -88,7 +88,7 @@ txt('''
 - Student with 5 Merits (ethics, academic accomplishment, physical fitness, soft skills, integration) - Faculty Level - 11/2021
 ''')
 
-txt1('**Business Analysis & Product Design**,  *BAC - Business Analyst Training Center*, Vietnam',
+txt1('**Business Analysis & Product Design**,  *Business Analyst Training Center*, Vietnam',
 '08/2021 - 10/2022')
 txt('''
 - Final Project: [Online Reservation System](https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1)
@@ -104,7 +104,7 @@ txt('''
 txt('''
 ## Work Experience
 ''')
-txt1('**Organizer, content creator & designer of Media Department**, *[ITB Club](https://www.facebook.com/itbclub.uel)*',
+txt1('**Organizer, content creator & designer of Media Department**, *[ITB Club](https://www.facebook.com/itbclub.uel)*, Vietnam',
 '09/2019 - 12/2020')
 txt1('**Academic Management Collaborator**, *[iGen Group](https://igen.world)*, Vietnam',
 '05/2022 - 07/2022')
