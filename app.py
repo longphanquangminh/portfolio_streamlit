@@ -105,9 +105,9 @@ txt('''
 ## Work Experience
 ''')
 txt1('**Organizer, communicator, content creator & designer of Media Department**, *[ITB Club](https://www.facebook.com/itbclub.uel)*',
-'08/2021 - Present')
-txt1('**Academic Management Collaborator**, *[iGen Group](https://igen.world)*, Vietnam',
 '09/2019 - 12/2020')
+txt1('**Academic Management Collaborator**, *[iGen Group](https://igen.world)*, Vietnam',
+'05/2022 - 07/2022')
 txt1('**Apprenticeship**, *[CrossTech](https://crosstechhub.com)*, Vietnam',
 '06/2022 - 07/2022')
 txt1('**Bootcamp''s Participant**, *[KMS Technology, Inc.](https://www.linkedin.com/company/kms-technology)*, Vietnam',
@@ -118,11 +118,6 @@ txt('''
 ## Project
 ''')
 txt4('Vehicle Detection', 'The website is used to identify vehicles, assess and visualize traffic conditions in Ho Chi Minh City, Vietnam. Using `SSD Object Detection` and real camera data from Ho Chi Minh', 'https://share.streamlit.io/lenguyengiabao/vehicle_detection/app.py')
-txt4('Face Recognition Research', 'Research about SOTA model of Face Recognition. Current research: `InsightFace`','https://github.com/LeNguyenGiaBao/face_detection')
-txt4('Fashion Recognition', 'A website where you can find all fashion styles in world with only a picture', 'https://share.streamlit.io/lenguyengiabao/fashion_recognition/app.py')
-txt4('Leetcode Java', 'A repo to learn, solve and store answers to questions on Leetcode. Submission: `68` easy and `11` medium', 'https://github.com/LeNguyenGiaBao/leetcode_java')
-txt4('Face Recognition', 'Timekeeping system with face recognition build in Python. Technology: `MTCNN`, `Inception Resnet`, `SVM`', 'https://github.com/LeNguyenGiaBao/Face_Recognition')
-txt4('ParkingLot_CNN', 'Using CNN to read license plates and replicate a parking application. Technology: `MobileNetV2`, `Wpod Net`, `MySQL Database`','https://github.com/LeNguyenGiaBao/ParkingLot_CNN')
 
 
 #####################
