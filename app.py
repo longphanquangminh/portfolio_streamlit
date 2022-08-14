@@ -66,8 +66,8 @@ Throughout my university years, I've participated in various competitions, activ
 txt('''
 ## Contact Infomation
 ''')
-txt2('Phone', '[0852197589](tel:+84852197589)')
-txt2('Zalo', '[0852197589](https://zalo.me/0852197589)')
+txt2('Phone', '[🇻🇳 (+84) 852 197 589](tel:+84852197589)')
+txt2('Zalo', '[🇻🇳 (+84) 852 197 589](https://zalo.me/0852197589)')
 txt2('Address', '[District 10, Ho Chi Minh City, Vietnam](https://www.google.com/maps/place/District+10,+Ho+Chi+Minh+City/@10.7727179,106.669428,15z/data=!3m1!4b1!4m5!3m4!1s0x31752edc7bd9fd65:0x7500396cc3a60d04!8m2!3d10.7745965!4d106.6679542)')
 txt2('Email', '[longpqm19406c@st.uel.edu.vn](mailto:longpqm19406c@st.uel.edu.vn)')
 txt2('LinkedIn', '[phanquangminhlong](https://www.linkedin.com/in/phanquangminhlong)')
@@ -112,18 +112,18 @@ txt1('**Academic Management Collaborator**, *[iGen Group](https://igen.world)*, 
 '05/2022 - 07/2022')
 txt1('**Apprenticeship**, *[CrossTech](https://crosstechhub.com)*, Vietnam',
 '06/2022 - 07/2022')
-txt1('**Bootcamp''s Participant**, *[KMS Technology, Inc.](https://www.linkedin.com/company/kms-technology)*, Vietnam',
+txt1('**Bootcamp Participant**, *[KMS Technology, Inc.](https://www.linkedin.com/company/kms-technology)*, Vietnam',
 '07/2022')
 
 #####################
 txt('''
 ## My Finished Projects
 ''')
-txt4('Reservation System (UI/UX)','In order to comply with epidemic prevention regulations, help customers have a better experience and the restaurant can manage the number of customers more easily, our team has proposed and designed an online reservation system. Build responsive web-app system for user and admin roles. Specially, the mobile interface with CRO buttons provide a better experience for customers.','https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1')
+txt4('Reservation System (BA, UI/UX)','In order to comply with epidemic prevention regulations, help customers have a better experience and the restaurant can manage the number of customers more easily, our team has proposed and designed an online reservation system. Build responsive web-app system for user and admin roles. Specially, the mobile interface with CRO buttons provide a better experience for customers.','https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1')
 txt4('Beverage Recognition', 'The project is used to identify beverage brands in Vietnam. Based on data about photos of beverage products that the team collects themselves on [Kaggle](https://www.kaggle.com) and [Google](https://www.google.com), our team has built a model that can recognize logos of beverage brands in Vietnam using `SSD Object Detection` and `CNN`.', 'https://github.com/longphanquangminh/streamlit-beverage-recognition')
 txt4('Unity AR UEL App','Build augmented reality applications by Unity for new college students to discover school information vividly (Faculty-level SCIENCE RESEARCH).','CH Play: https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi')
-txt4('MarPet Website','Our learning team has implemented a website that sells pet food and accessories, specifically dogs and cats, to provide online pet products and services for the spiritual well-being of people. Using `Angular` framework, `Bootstrap`, `MongoDB`, `Node.js` & `Express.js` to build this entire website system.','https://github.com/Pet-Shop-Dev')
-txt4('KMS ImageFinder','Our team won the 1st prize (Technical Challenge Winner) of KMS Fresher Bootcamp 2022 program with the topic "Events: Pictures Finder": Build a tool to make it easier for marathon runners to collect their photos on `Google Drive` and `other sites` (in the future) based on their facial traits. My role: Front-end developer (`Angular`), logo design, support work related to using `API` on the interface.','https://fe-oql27hnv2q-as.a.run.app/home')
+txt4('MarPet Website','Our learning team has implemented a website that sells pet food and accessories, specifically dogs and cats, to provide online pet products and services for the spiritual well-being of people. Using `Angular` framework, `Bootstrap`, `MongoDB`, `Node.js` & `Express.js` to build this entire website system. Detail: Designing and deciding on the visual layout of a website; Changing the code, software or graphics of existing websites; Researching new technologies, software packages; CRUD products, administrators and users; Testing the website.','https://github.com/Pet-Shop-Dev')
+txt4('KMS ImageFinder','Our team won the 1st prize (Technical Challenge Winner) of KMS Fresher Bootcamp 2022 program with the topic "Events: Pictures Finder": Build a website/tool to make it easier for marathon runners to collect their photos on `Google Drive` and `other sites` (in the future) based on their facial traits. My role: Front-end developer (`Angular`), logo design, support work related to using `API` on the interface.','https://fe-oql27hnv2q-as.a.run.app/home')
 
 
 #####################
