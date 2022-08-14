@@ -80,13 +80,14 @@ txt2('Discord', '[minhlong2605#4963](https://discord.com/channels/@me/9953461510
 #####################
 txt('## Education')
 # col.markdown('## Education')
-txt1('**Senior Student**,  *[VNUHCM-University of Economics and Law](https://en.wikipedia.org/wiki/University_of_Economics_and_Law)*, Vietnam',
+txt1('**Senior Student**,  *[VNUHCM](https://en.wikipedia.org/wiki/Vietnam_National_University,_Ho_Chi_Minh_City)-[University of Economics and Law](https://en.wikipedia.org/wiki/University_of_Economics_and_Law)*, Vietnam',
 '`08/2019 - present`')
 txt('''
 - Management Information System
 - Current GPA: `7.5 / 10`
 - Scholarship for High performance student `05/2021`
 - Student with 5 Merits - Faculty Level `11/2021`
+- `Certificate of Merit` for completing `Student Scientific Research Project` in academic year `2021-2022`. Decision No.: `500/QĐ-ĐHKTL`, dated `April 20, 2022` of `Rector` of `UEL`.
 ''')
 
 txt1('**Business Analysis & Product Design**,  *[Business Analyst Training Center](https://www.bacs.vn)*, Vietnam',
