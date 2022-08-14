@@ -80,7 +80,7 @@ txt2('Instagram', '[minhlong909](https://www.instagram.com/minhlong909)')
 txt('## Education')
 # col.markdown('## Education')
 txt1('**Final Year Student**,  *[VNUHCM-University of Economics and Law](https://en.wikipedia.org/wiki/University_of_Economics_and_Law)*, Vietnam',
-'09/2018 - Present')
+'08/2019 - Present')
 txt('''
 - Management Information System
 - Current GPA: `7.5 / 10`
