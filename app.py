@@ -59,7 +59,7 @@ Throughout my university years, I've participated in various competitions, activ
 - 🌱 I’m currently learning ReactJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email [here](mailto:longpqm19406c@st.uel.edu.vn)
-- ⚡ I love to watch 🇯🇵 anime:  `Dragon Ball`,  `One Piece`,  `Spy X Family`, ...
+- 🇯🇵 I love anime:  `Dragon Ball`,  `One Piece`,  `Spy X Family`, ...
 ''')
 
 #####################
@@ -102,10 +102,11 @@ txt('''
 - Final Project: [Online Reservation System](https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1)
 ''')
 
-txt1('**High school**,  *[Quang Trung Nguyen Hue High School](https://qtnh.edu.vn)*, Vietnam',
+txt1('**High school**,  *[Quang Trung Nguyen Hue Secondary and High School](https://qtnh.edu.vn)*, Vietnam',
 '`08/2016 - 06/2019`')
 txt('''
 - 2-year valedictorian and class vice academic (Grade 10 & 11).
+- Executive Committee - Communist Youth Union of Quang Trung Nguyen Hue Secondary and High School.
 - Typical students follow Uncle Ho's words on the occasion of the 12th traditional festival on January 9, 2018. [Document](https://drive.google.com/file/d/1Djt156NbAjUkGjS1xu7235gBxqYFcfIy/view?usp=sharing)
 ''')
 
@@ -160,8 +161,10 @@ txt3('Manual Testing','')
 txt('''
 ## Highlighted Licenses & Certifications
 ''')
-txt4('02/2020','2020 [Volunteer spring campaign](https://www.facebook.com/xuantinhnguyen.uel) – FIS UEL','')
-
+txt4('08/2019','[IELTS](https://en.wikipedia.org/wiki/International_English_Language_Testing_System) Academic 5.5 (Listening 5.5 Reading 5.5 Writing 6.0 Speaking 5.0)','[myuel.uel.edu.vn/Modules/UIS/images/chungchiNN/16_IELTS_K194060852.jpg](https://myuel.uel.edu.vn/Modules/UIS/images/chungchiNN/16_IELTS_K194060852.jpg)')
+txt4('08/2021','[HackerRank](https://en.wikipedia.org/wiki/HackerRank) [SQL](https://en.wikipedia.org/wiki/SQL) (INTERMEDIATE)','[www.hackerrank.com/certificates/5c8725fc537b](https://www.hackerrank.com/certificates/5c8725fc537b)')
+txt4('03/2022','MOS WORD 2016 (IIG Vietnam)','https://drive.google.com/file/d/1B5P2I1EJ_YJWCGHgmL53J3URXifTgNNX/view')
+txt4('04/2022','[Coursera](https://en.wikipedia.org/wiki/Coursera) FRONT-END WEB UI FRAMEWORKS AND TOOLS: [BOOTSTRAP](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)) 4','https://coursera-certificate-images.s3.amazonaws.com/VPTQ5YLCBDMT')
 
 #####################
 txt('''
