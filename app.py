@@ -53,7 +53,7 @@ txt('## Summary')
 # col.markdown('## Summary')
 _, col, _ = st.columns((1,3,1))
 col.success('''
-💫  About Me: I'm Phan Quang Minh Long. I was born in 2001 and I'm a final year Management Information System student at the Faculty of Information Systems of the University of Economics & Law at VNU HCMC.
+💫  About Me: I'm Phan Quang Minh Long. I was born in 2001 and I'm a final year Management Information System student at [Faculty of Information Systems](https://www.facebook.com/khoahttt.uel) of the University of Economics & Law at VNU HCMC.
 Throughout my university years, I've participated in various competitions, activities, and was a collaborator of numerous academic organizations in school in order to gain more knowledge and experience for my future career.
 
 - 🌱 I’m currently learning ReactJS 😄
@@ -90,16 +90,16 @@ txt('''
 - `Certificate of Merit` for completing `Student Scientific Research Project` in academic year `2021-2022`. Decision No.: `500/QĐ-ĐHKTL`, dated `April 20, 2022` of `Rector` of `UEL`.
 ''')
 
-txt1('**Business Analysis & Product Design**,  *[Business Analyst Training Center](https://www.bacs.vn)*, Vietnam',
-'`08/2021 - 10/2022`')
-txt('''
-- Final Project: [Online Reservation System](https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1)
-''')
-
 txt1('**AI Developer Course**,  *[ISC Quang Trung](https://www.iscquangtrung.edu.vn)*, Vietnam',
 '`11/2021 - 03/2022`')
 txt('''
 - Final Project: [Beverage Recognition](https://github.com/longphanquangminh/streamlit-beverage-recognition)
+''')
+
+txt1('**Business Analysis & Product Design**,  *[Business Analyst Training Center](https://www.bacs.vn)*, Vietnam',
+'`08/2021 - 10/2022`')
+txt('''
+- Final Project: [Online Reservation System](https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1)
 ''')
 
 #####################
@@ -148,3 +148,22 @@ txt3('Design (Basic)', '`Figma`, `Adobe Photoshop`, `Adobe Illustrator`')
 txt3('Version Control', '`Git`')
 txt3('Office (Basic)', '`Microsoft Word`, `Microsoft Excel`, `Microsoft Powerpoint`')
 txt3('Manual Testing','')
+
+#####################
+txt('''
+## Highlighted Licenses & Certifications
+''')
+txt4('02/2020','2020 [Volunteer spring campaign](https://www.facebook.com/xuantinhnguyen.uel) – FIS UEL','')
+
+
+#####################
+txt('''
+## Volunteering
+''')
+txt4('02/2020','2020 [Volunteer spring campaign](https://www.facebook.com/xuantinhnguyen.uel) – FIS UEL','')
+txt4('03/2020','2020 [Earth Hour Campaign](https://www.facebook.com/giotraidatvn) Volunteer (Online)','https://drive.google.com/file/d/1Jnfg8SidPK-xSjTsDyju4Q7FZyrh7cy6/view?usp=sharing')
+txt4('07/2020','2020 VIETNAM MAPPING EVENT BY [REDBULL](https://www.facebook.com/RedBullVN) X [HCM-SAC](https://www.facebook.com/hotrohssv) ([ASIAN RECORD](https://worldkings.org/news/asia-records-institute/worldkings-worldkings-news-asia-records-institute-asri-vietkings-red-bull-vietnam-achieved-asian-record-in-the-honor-of-positive-day-july-11-2020)) POSITIVE DAY','https://drive.google.com/file/d/1bwziixVCNJ_ZdnYisaAhVrLYXUIqzMsR/view?usp=sharing')
+txt4('11/2020 - 12/2020','2020 [VNU Will Run](https://www.facebook.com/VNUWILLRun) Foundation','https://drive.google.com/file/d/1otQjq1TGZow889OSjplYBylpPBjhUfej/view?usp=sharing')
+txt4('12/2020','2020 [VUG](https://www.facebook.com/VUG.vn) Running','https://drive.google.com/file/d/1z5GMc14W8vrSYAX6p4hL7vLnSD1zNC9i/view?usp=sharing')
+txt4('03/2022','2022 Earth Hour Campaign Volunteer (Online)','https://drive.google.com/file/d/1oH5yFWcaUVLp83wxX6erCpg_YchFANcW/view?usp=sharing')
+txt4('07/2022','2022 [National university entrance exam Support Campaign](https://www.facebook.com/tsmt.tphcm)','')
