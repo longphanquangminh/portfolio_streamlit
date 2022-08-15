@@ -76,7 +76,10 @@ txt2('GitLab', '[longpqm19406c](https://gitlab.com/longpqm19406c)')
 txt2('Leetcode', '[longphanquangminh](https://leetcode.com/longphanquangminh)')
 txt2('Facebook', '[pqmlong265](https://www.facebook.com/pqmlong265)')
 txt2('Instagram', '[minhlong909](https://www.instagram.com/minhlong909)')
+txt2('Twitter', '[pqmlong](https://twitter.com/pqmlong)')
 txt2('Discord', '[minhlong2605#4963](https://discord.com/channels/@me/995346151031197707)')
+txt2('Stack Overflow', '[17742483](https://stackoverflow.com/users/17742483)')
+txt2('Google Developer', '[minhlong2605](https://developers.google.com/profile/u/minhlong2605)')
 
 #####################
 txt('## Education')
