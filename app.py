@@ -102,6 +102,13 @@ txt('''
 - Final Project: [Online Reservation System](https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1)
 ''')
 
+txt1('**High school**,  *[Quang Trung Nguyen Hue High School](https://qtnh.edu.vn)*, Vietnam',
+'`08/2016 - 06/2019`')
+txt('''
+- 2-year valedictorian and class vice academic (Grade 10 & 11).
+- Typical students follow Uncle Ho's words on the occasion of the 12th traditional festival on January 9, 2018. [Document](https://drive.google.com/file/d/1Djt156NbAjUkGjS1xu7235gBxqYFcfIy/view?usp=sharing)
+''')
+
 #####################
 txt('''
 ## Work Experience
