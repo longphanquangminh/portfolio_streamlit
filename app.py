@@ -105,8 +105,8 @@ txt('''
 txt1('**High school**,  *[Quang Trung Nguyen Hue Secondary and High School](https://qtnh.edu.vn)*, Vietnam',
 '`08/2016 - 06/2019`')
 txt('''
-- 2-year valedictorian and class vice academic (Grade 10 & 11).
-- Executive Committee - Communist Youth Union of Quang Trung Nguyen Hue Secondary and High School.
+- 2-year `valedictorian` and `class vice academic` (Grade 10 & 11).
+- `Executive Committee` - Communist Youth Union of Quang Trung Nguyen Hue Secondary and High School.
 - Typical students follow Uncle Ho's words on the occasion of the 12th traditional festival on January 9, 2018. [Document](https://drive.google.com/file/d/1Djt156NbAjUkGjS1xu7235gBxqYFcfIy/view?usp=sharing)
 ''')
 
@@ -137,7 +137,7 @@ txt4('Reservation System (BA, UI/UX)','In order to comply with epidemic preventi
 txt4('Beverage Recognition', 'The project is used to identify beverage brands in Vietnam. Based on data about photos of beverage products that the team collects themselves on [Kaggle](https://www.kaggle.com) and [Google](https://www.google.com), our team has built a model that can recognize logos of beverage brands in Vietnam using `SSD Object Detection` and `CNN`.', 'https://github.com/longphanquangminh/streamlit-beverage-recognition')
 txt4('Unity AR UEL App','Build augmented reality applications by Unity for new college students to discover school information vividly (Faculty-level SCIENCE RESEARCH).','CH Play: https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi')
 txt4('MarPet Website','Our learning team has implemented a website that sells pet food and accessories, specifically dogs and cats, to provide online pet products and services for the spiritual well-being of people. Using `Angular` framework, `Bootstrap`, `MongoDB`, `Node.js` & `Express.js` to build this entire website system. Detail: Designing and deciding on the visual layout of a website; Changing the code, software or graphics of existing websites; Researching new technologies, software packages; CRUD products, administrators and users; Testing the website.','https://github.com/Pet-Shop-Dev')
-txt4('KMS ImageFinder','Our team won the 1st prize (Technical Challenge Winner) of KMS Fresher Bootcamp 2022 program with the topic "Events: Pictures Finder": Build a website/tool to make it easier for marathon runners to collect their photos on `Google Drive` and `other sites` (in the future) based on their facial traits. My role: Front-end developer (`Angular`), logo design, support work related to using `API` on the interface.','https://fe-oql27hnv2q-as.a.run.app/home')
+txt4('KMS ImageFinder','Our team won the `1st prize` (Technical Challenge Winner) of `KMS Fresher Bootcamp 2022 program` with the topic "Events: Pictures Finder": Build a website/tool to make it easier for marathon runners to collect their photos on `Google Drive` and `other sites` (in the future) based on their facial traits. My role: Front-end developer (`Angular`), logo design, support work related to using `API` on the interface.','https://fe-oql27hnv2q-as.a.run.app/home')
 
 
 #####################
