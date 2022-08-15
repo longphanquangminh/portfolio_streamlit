@@ -72,6 +72,7 @@ txt2('Address', '🇻🇳 [District 10, Ho Chi Minh City, Vietnam](https://www.g
 txt2('Email', '[longpqm19406c@st.uel.edu.vn](mailto:longpqm19406c@st.uel.edu.vn)')
 txt2('LinkedIn', '[phanquangminhlong](https://www.linkedin.com/in/phanquangminhlong)')
 txt2('GitHub', '[longphanquangminh](https://github.com/longphanquangminh)')
+txt2('GitLab', '[longpqm19406c](https://gitlab.com/longpqm19406c)')
 txt2('Leetcode', '[longphanquangminh](https://leetcode.com/longphanquangminh)')
 txt2('Facebook', '[pqmlong265](https://www.facebook.com/pqmlong265)')
 txt2('Instagram', '[minhlong909](https://www.instagram.com/minhlong909)')
