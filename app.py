@@ -95,7 +95,7 @@ txt('''
 - `Certificate of Merit` for completing `Student Scientific Research Project` in academic year `2021-2022`. Decision No.: `500/QĐ-ĐHKTL`, dated `April 20, 2022` of `Rector` of `UEL`.
 ''')
 
-txt1('**AI Developer Course**,  *[ISC Quang Trung](https://www.iscquangtrung.edu.vn)*, Vietnam',
+txt1('**AI Developer**,  *[ISC Quang Trung](https://www.iscquangtrung.edu.vn)*, Vietnam',
 '`11/2021 - 03/2022`')
 txt('''
 - Final Project: [Beverage Recognition](https://github.com/longphanquangminh/streamlit-beverage-recognition)
@@ -146,7 +146,7 @@ txt1('**Bootcamp Participant**, *[KMS Technology, Inc.](https://www.linkedin.com
 
 #####################
 txt('''
-## My Finished Projects
+## My Featured Projects
 ''')
 txt4('Reservation System (BA, UI/UX)','In order to comply with epidemic prevention regulations, help customers have a better experience and the restaurant can manage the number of customers more easily, our team has proposed and designed an online reservation system. Build responsive web-app system for user and admin roles. Specially, the mobile interface with CRO buttons provide a better experience for customers.','https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1')
 txt4('Beverage Recognition', 'The project is used to identify beverage brands in Vietnam. Based on data about photos of beverage products that the team collects themselves on [Kaggle](https://www.kaggle.com), [Google](https://www.google.com) and [VnExpress](https://vnexpress.net/), our team has built a model that can recognize logos of beverage brands in Vietnam using `SSD Object Detection` and `CNN`. Our presentation: [here](https://www.youtube.com/watch?v=E11CZIF5GmI)', 'https://github.com/longphanquangminh/streamlit-beverage-recognition')
