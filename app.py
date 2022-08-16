@@ -168,7 +168,7 @@ txt('''
 ''')
 txt4('08/2019','[IELTS](https://en.wikipedia.org/wiki/International_English_Language_Testing_System) Academic 5.5 (Listening 5.5 Reading 5.5 Writing 6.0 Speaking 5.0)','[myuel.uel.edu.vn/Modules/UIS/images/chungchiNN/16_IELTS_K194060852.jpg](https://myuel.uel.edu.vn/Modules/UIS/images/chungchiNN/16_IELTS_K194060852.jpg)')
 txt4('08/2021','[HackerRank](https://en.wikipedia.org/wiki/HackerRank) [SQL](https://en.wikipedia.org/wiki/SQL) (INTERMEDIATE)','[www.hackerrank.com/certificates/5c8725fc537b](https://www.hackerrank.com/certificates/5c8725fc537b)')
-txt4('03/2022','MOS WORD 2016 (IIG Vietnam)','https://drive.google.com/file/d/1B5P2I1EJ_YJWCGHgmL53J3URXifTgNNX/view')
+txt4('03/2022','[MOS WORD 2016](https://docs.microsoft.com/en-us/certifications/mos-word-2016) ([IIG Vietnam](https://iigvietnam.com/en))','https://drive.google.com/file/d/1B5P2I1EJ_YJWCGHgmL53J3URXifTgNNX/view')
 txt4('04/2022','[Coursera](https://en.wikipedia.org/wiki/Coursera) FRONT-END WEB UI FRAMEWORKS AND TOOLS: [BOOTSTRAP](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)) 4','https://coursera-certificate-images.s3.amazonaws.com/VPTQ5YLCBDMT')
 
 #####################
