@@ -107,6 +107,14 @@ txt('''
 - Final Project: [Online Reservation System](https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1)
 ''')
 
+txt1('**Full-stack Web Developer**,  *[R2S Academy](https://www.facebook.com/r2s.tuyendung)*, Vietnam',
+'`07/2021`')
+txt('''
+- Final Project: [Mobile Store](https://gitlab.com/abc334/abc-ms_abc-mobile-store)
+- My role: Front-end Developer
+- Certification: [Document](https://drive.google.com/file/d/1CntI2J04ecUAivct7m-ju-3-oXrsKio3/view?usp=sharing)
+''')
+
 txt1('**High school**,  *[Quang Trung Nguyen Hue Secondary and High School](https://qtnh.edu.vn)*, Vietnam',
 '`08/2016 - 06/2019`')
 txt('''
