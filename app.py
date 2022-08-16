@@ -99,6 +99,7 @@ txt1('**AI Developer Course**,  *[ISC Quang Trung](https://www.iscquangtrung.edu
 '`11/2021 - 03/2022`')
 txt('''
 - Final Project: [Beverage Recognition](https://github.com/longphanquangminh/streamlit-beverage-recognition)
+- Our presentation: [Youtube](https://www.youtube.com/watch?v=E11CZIF5GmI)
 ''')
 
 txt1('**Business Analysis & Product Design**,  *[Business Analyst Training Center](https://www.bacs.vn)*, Vietnam',
