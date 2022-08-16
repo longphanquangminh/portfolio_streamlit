@@ -122,7 +122,7 @@ txt1('**High school**,  *[Quang Trung Nguyen Hue Secondary and High School](http
 txt('''
 - 2-year `valedictorian` and `class vice academic` (Grade 10 & 11).
 - `Executive Committee` - Communist Youth Union of Quang Trung Nguyen Hue Secondary and High School.
-- `Typical students` follow Uncle Ho's words on the occasion of the 12th traditional festival on January 9, 2018. [Document](https://drive.google.com/file/d/1Djt156NbAjUkGjS1xu7235gBxqYFcfIy/view?usp=sharing)
+- `Typical students` follow Uncle Ho's words on the occasion of the 12th traditional festival on January 9, 2018. Certification: [Document](https://drive.google.com/file/d/1Djt156NbAjUkGjS1xu7235gBxqYFcfIy/view?usp=sharing)
 ''')
 
 #####################
