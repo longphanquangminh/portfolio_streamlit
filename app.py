@@ -53,7 +53,7 @@ txt('## Summary')
 # col.markdown('## Summary')
 _, col, _ = st.columns((1,3,1))
 col.success('''
-💫  About Me: I'm Phan Quang Minh Long. I was born in 2001 and I'm a final year Management Information System student at [Faculty of Information Systems](https://www.facebook.com/khoahttt.uel) of the University of Economics & Law at VNU HCMC.
+💫  About Me: I'm Phan Quang Minh Long. I was born in 2001 and I'm a final year Management Information System student at Faculty of Information Systems of the University of Economics & Law at VNU HCMC.
 Throughout my university years, I've participated in various competitions, activities, and was a collaborator of numerous academic organizations in school in order to gain more knowledge and experience for my future career.
 
 - 🌱 I’m currently learning ReactJS 😄
@@ -87,7 +87,8 @@ txt('## Education')
 txt1('**Senior Student**,  *[VNUHCM](https://en.wikipedia.org/wiki/Vietnam_National_University,_Ho_Chi_Minh_City)-[University of Economics and Law](https://en.wikipedia.org/wiki/University_of_Economics_and_Law)*, Vietnam',
 '`08/2019 - present`')
 txt('''
-- Management Information System
+- [Faculty of Information Systems](https://www.facebook.com/khoahttt.uel)
+- Specialization: Management Information System
 - Current GPA: `7.5 / 10`
 - Scholarship for High performance student `05/2021`
 - Student with 5 Merits - Faculty Level `11/2021`
