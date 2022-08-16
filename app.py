@@ -91,7 +91,7 @@ txt('''
 - Specialization: Management Information System
 - Current GPA: `7.5 / 10`
 - Scholarship for High performance student `05/2021`
-- Student with 5 Merits - Faculty Level `11/2021`
+- [Student with 5 Merits - Faculty Level](https://www.facebook.com/LCH.HTTT.UEL/photos/pcb.4923846807625977/4923844107626247) `11/2021`
 - `Certificate of Merit` for completing `Student Scientific Research Project` in academic year `2021-2022`. Decision No.: `500/QĐ-ĐHKTL`, dated `April 20, 2022` of `Rector` of `UEL`.
 ''')
 
