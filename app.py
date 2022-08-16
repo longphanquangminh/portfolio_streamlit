@@ -114,6 +114,7 @@ txt1('**Full-stack Web Developer**,  *[R2S Academy](https://www.facebook.com/r2s
 txt('''
 - Final Project: [ABC Mobile Store](https://gitlab.com/abc334/abc-ms_abc-mobile-store)
 - My role: Front-end Developer
+- Our group presentation in the final part of the video: [Youtube](https://www.youtube.com/watch?v=ogapwDYKUOk)
 - Certification: [Document](https://drive.google.com/file/d/1CntI2J04ecUAivct7m-ju-3-oXrsKio3/view?usp=sharing)
 ''')
 
