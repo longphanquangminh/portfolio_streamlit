@@ -112,7 +112,7 @@ txt('''
 txt1('**Full-stack Web Developer**,  *[R2S Academy](https://www.facebook.com/r2s.tuyendung)*, Vietnam',
 '`07/2021`')
 txt('''
-- Final Project: [Mobile Store](https://gitlab.com/abc334/abc-ms_abc-mobile-store)
+- Final Project: [ABC Mobile Store](https://gitlab.com/abc334/abc-ms_abc-mobile-store)
 - My role: Front-end Developer
 - Certification: [Document](https://drive.google.com/file/d/1CntI2J04ecUAivct7m-ju-3-oXrsKio3/view?usp=sharing)
 ''')
@@ -148,6 +148,7 @@ txt1('**Bootcamp Participant**, *[KMS Technology, Inc.](https://www.linkedin.com
 txt('''
 ## My Featured Projects
 ''')
+txt4('ABC Mobile Store','','https://gitlab.com/abc334/abc-ms_abc-mobile-store')
 txt4('Reservation System (BA, UI/UX)','In order to comply with epidemic prevention regulations, help customers have a better experience and the restaurant can manage the number of customers more easily, our team has proposed and designed an online reservation system. Build responsive web-app system for user and admin roles. Specially, the mobile interface with CRO buttons provide a better experience for customers.','https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1')
 txt4('Beverage Recognition', 'The project is used to identify beverage brands in Vietnam. Based on data about photos of beverage products that the team collects themselves on [Kaggle](https://www.kaggle.com), [Google](https://www.google.com) and [VnExpress](https://vnexpress.net/), our team has built a model that can recognize logos of beverage brands in Vietnam using `SSD Object Detection` and `CNN`. Our presentation: [Youtube](https://www.youtube.com/watch?v=E11CZIF5GmI)', 'https://github.com/longphanquangminh/streamlit-beverage-recognition')
 txt4('Unity AR UEL App','Build augmented reality applications by Unity for new college students to discover school information vividly (Faculty-level SCIENCE RESEARCH).','CH Play: https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi')
