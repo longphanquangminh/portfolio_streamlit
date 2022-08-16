@@ -105,6 +105,7 @@ txt1('**Business Analysis & Product Design**,  *[Business Analyst Training Cente
 '`08/2021 - 10/2022`')
 txt('''
 - Final Project: [Online Reservation System](https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1)
+- Certification: [Document](https://drive.google.com/file/d/1Gzsi4fSwXCHjklHNhpO0L-fr52UNX9Yk/view)
 ''')
 
 txt1('**Full-stack Web Developer**,  *[R2S Academy](https://www.facebook.com/r2s.tuyendung)*, Vietnam',
