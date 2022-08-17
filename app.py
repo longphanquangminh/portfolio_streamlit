@@ -92,7 +92,7 @@ txt1('**Senior Student**,  *[VNUHCM](https://en.wikipedia.org/wiki/Vietnam_Natio
 txt('''
 - [Faculty of Information Systems](https://www.facebook.com/khoahttt.uel)
 - Specialization: Management Information System
-- Current GPA: `7.5 / 10`
+- Current Grade Point Average (GPA): `7.5 / 10`. Scores of specialized subjects: 
     - PROGRAMMING TECHNIQUES (3 credits): `7.5 / 10` (B+)
     - DIGITAL INFRASTRUCTURE FOR INFORMATION SYSTEM (3 credits): `8.0 / 10` (A)
     - APPLIED INFORMATICS (2 credits): `9.5 / 10` (A+)
@@ -100,9 +100,9 @@ txt('''
     - E-COMMERCE (3 credits): `8.5 / 10` (A)
     - SAFETY AND SECURITY INFORMATION SYSTEM (3 credits): `9.0 / 10` (A+)
     - MANAGEMENT INFORMATION SYSTEMS (3 credits): `9.5 / 10` (A+)
-    - BUSINESS INFORMATION SYSTEM (SAP) (2 credits): `10 / 10` (A+)
+    - BUSINESS INFORMATION SYSTEM ([SAP](https://en.wikipedia.org/wiki/SAP)) (2 credits): `10 / 10` (A+)
     - ANALYSIS AND DESIGN OF MANAGEMENT INFORMATION SYSTEM (BA) (3 credits): `8.5 / 10` (A)
-    - INTEGRATED BUSINESS PROCESSES WITH ERP SYSTEMS (3 credits): `8.5 / 10` (A)
+    - INTEGRATED BUSINESS PROCESSES WITH ERP SYSTEMS ([SAP](https://en.wikipedia.org/wiki/SAP)) (3 credits): `8.5 / 10` (A)
     - BUSINESS WEBSITE DEVELOPMENT (3 credits): `7.5 / 10` (B+)
     - DATABASE MANAGEMENT SYSTEM (3 credits): `9.0 / 10` (A+)
     - ADVANCED WEB DEVELOPMENT (3 credits): `7.5 / 10` (B+)
