@@ -93,7 +93,7 @@ txt('''
 - [Faculty of Information Systems](https://www.facebook.com/khoahttt.uel)
 - Specialization: [Management Information System](https://is.uel.edu.vn/Resources/Docs/SubDomain/is/academy/Course-description-bachelor-of-management-information-system.pdf)
 - Current Grade Point Average (GPA): `7.5 / 10`. Scores of specialized subjects: 
-    - PROGRAMMING TECHNIQUES (3 credits): `7.5 / 10` (B+)
+    - PROGRAMMING TECHNIQUES (C#) (3 credits): `7.5 / 10` (B+)
     - DIGITAL INFRASTRUCTURE FOR INFORMATION SYSTEM (3 credits): `8.0 / 10` (A)
     - APPLIED INFORMATICS (2 credits): `9.5 / 10` (A+)
     - INTRODUCTION TO DATABASE (3 credits): `9.0 / 10` (A+)
