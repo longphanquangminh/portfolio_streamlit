@@ -48,7 +48,7 @@ img_column.image(image, use_column_width  = True)
 st.write('''
 # PHAN QUANG MINH LONG
 ##### A Front-end Developer from [Vietnam](https://en.wikipedia.org/wiki/Vietnam) 🇻🇳  
-##### [Download my CV](https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view)
+##### [See my CV](https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view)
 ''')
 txt('## Summary')
 # col.markdown('## Summary')
@@ -92,7 +92,7 @@ txt1('**Senior Student**,  *[VNUHCM](https://en.wikipedia.org/wiki/Vietnam_Natio
 txt('''
 - [Faculty of Information Systems](https://www.facebook.com/khoahttt.uel)
 - Specialization: Management Information System
-- Current GPA: `7.5 / \n10`
+- Current GPA: `7.5 / 10`
 - Scholarship for High performance student `05/2021`
 - [Student with 5 Merits - Faculty Level](https://www.facebook.com/LCH.HTTT.UEL/photos/pcb.4923846807625977/4923844107626247) `11/2021`
 - `Certificate of Merit` for completing `Student Scientific Research Project` in academic year `2021-2022`. Decision No.: `500/QĐ-ĐHKTL`, dated `April 20, 2022` of `Rector` of `UEL`.
