@@ -91,7 +91,7 @@ txt1('**Senior Student**,  *[VNUHCM](https://en.wikipedia.org/wiki/Vietnam_Natio
 '`08/2019 - present`')
 txt('''
 - [Faculty of Information Systems](https://www.facebook.com/khoahttt.uel)
-- Specialization: Management Information System
+- Specialization: [Management Information System](https://is.uel.edu.vn/Resources/Docs/SubDomain/is/academy/Course-description-bachelor-of-management-information-system.pdf)
 - Current Grade Point Average (GPA): `7.5 / 10`. Scores of specialized subjects: 
     - PROGRAMMING TECHNIQUES (3 credits): `7.5 / 10` (B+)
     - DIGITAL INFRASTRUCTURE FOR INFORMATION SYSTEM (3 credits): `8.0 / 10` (A)
