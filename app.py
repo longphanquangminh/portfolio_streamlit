@@ -48,6 +48,7 @@ img_column.image(image, use_column_width  = True)
 st.write('''
 # PHAN QUANG MINH LONG
 ##### A Front-end Developer from [Vietnam](https://en.wikipedia.org/wiki/Vietnam) 🇻🇳  
+##### [Download my CV](https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view)
 ''')
 txt('## Summary')
 # col.markdown('## Summary')
@@ -79,6 +80,8 @@ txt2('Instagram', '[minhlong909](https://www.instagram.com/minhlong909)')
 txt2('Twitter', '[pqmlong](https://twitter.com/pqmlong)')
 txt2('Discord', '[minhlong2605#4963](https://discord.com/channels/@me/995346151031197707)')
 txt2('Stack Overflow', '[17742483](https://stackoverflow.com/users/17742483)')
+txt2('Kaggle', '[longphanquangminh](https://www.kaggle.com/longphanquangminh)')
+txt2('Behance', '[longphanquangminh](https://www.behance.net/longphanquangminh)')
 txt2('Google Developer', '[minhlong2605](https://developers.google.com/profile/u/minhlong2605)')
 
 #####################
@@ -89,7 +92,7 @@ txt1('**Senior Student**,  *[VNUHCM](https://en.wikipedia.org/wiki/Vietnam_Natio
 txt('''
 - [Faculty of Information Systems](https://www.facebook.com/khoahttt.uel)
 - Specialization: Management Information System
-- Current GPA: `7.5 / 10`
+- Current GPA: `7.5 / \n10`
 - Scholarship for High performance student `05/2021`
 - [Student with 5 Merits - Faculty Level](https://www.facebook.com/LCH.HTTT.UEL/photos/pcb.4923846807625977/4923844107626247) `11/2021`
 - `Certificate of Merit` for completing `Student Scientific Research Project` in academic year `2021-2022`. Decision No.: `500/QĐ-ĐHKTL`, dated `April 20, 2022` of `Rector` of `UEL`.
