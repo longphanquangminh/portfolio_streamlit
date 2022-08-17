@@ -93,21 +93,21 @@ txt('''
 - [Faculty of Information Systems](https://www.facebook.com/khoahttt.uel)
 - Specialization: [Management Information System](https://is.uel.edu.vn/Resources/Docs/SubDomain/is/academy/Course-description-bachelor-of-management-information-system.pdf)
 - Current Grade Point Average (GPA): `7.5 / 10`. Scores of specialized subjects: 
-    - PROGRAMMING TECHNIQUES (C#) (3 credits): `7.5 / 10` (B+)
+    - PROGRAMMING TECHNIQUES (`C#`) (3 credits): `7.5 / 10` (B+)
     - DIGITAL INFRASTRUCTURE FOR INFORMATION SYSTEM (3 credits): `8.0 / 10` (A)
-    - APPLIED INFORMATICS (2 credits): `9.5 / 10` (A+)
+    - APPLIED INFORMATICS (`MICROSOFT OFFICE`) (2 credits): `9.5 / 10` (A+)
     - INTRODUCTION TO DATABASE (3 credits): `9.0 / 10` (A+)
     - E-COMMERCE (3 credits): `8.5 / 10` (A)
     - SAFETY AND SECURITY INFORMATION SYSTEM (3 credits): `9.0 / 10` (A+)
-    - MANAGEMENT INFORMATION SYSTEMS (3 credits): `9.5 / 10` (A+)
-    - BUSINESS INFORMATION SYSTEM ([SAP](https://en.wikipedia.org/wiki/SAP)) (2 credits): `10 / 10` (A+)
-    - ANALYSIS AND DESIGN OF MANAGEMENT INFORMATION SYSTEM (BA) (3 credits): `8.5 / 10` (A)
-    - INTEGRATED BUSINESS PROCESSES WITH ERP SYSTEMS ([SAP](https://en.wikipedia.org/wiki/SAP)) (3 credits): `8.5 / 10` (A)
+    - MANAGEMENT INFORMATION SYSTEMS (`ERP`, `SCM`, `CRM`, ...) (3 credits): `9.5 / 10` (A+)
+    - BUSINESS INFORMATION SYSTEM ([`SAP`](https://en.wikipedia.org/wiki/SAP)) (2 credits): `10 / 10` (A+)
+    - ANALYSIS AND DESIGN OF MANAGEMENT INFORMATION SYSTEM (`BA`, `UI/UX`) (3 credits): `8.5 / 10` (A)
+    - INTEGRATED BUSINESS PROCESSES WITH `ERP` SYSTEMS ([`SAP`](https://en.wikipedia.org/wiki/SAP)) (3 credits): `8.5 / 10` (A)
     - BUSINESS WEBSITE DEVELOPMENT (3 credits): `7.5 / 10` (B+)
     - DATABASE MANAGEMENT SYSTEM (3 credits): `9.0 / 10` (A+)
     - ADVANCED WEB DEVELOPMENT (3 credits): `7.5 / 10` (B+)
     - INFORMATION SYSTEM PROJECT MANAGEMENT (3 credits): `8.0 / 10` (A)
-    - ARTIFICIAL INTELLIGENCE AND DECISION SUPPORT SYSTEM (3 credits): `9.5 / 10` (A+)
+    - BUSINESS INTELLIGENCE AND DECISION SUPPORT SYSTEM (`BI` and `DSS`) (3 credits): `9.5 / 10` (A+)
 - Scholarship for High performance student `05/2021`
 - [Student with 5 Merits - Faculty Level](https://www.facebook.com/LCH.HTTT.UEL/photos/pcb.4923846807625977/4923844107626247) `11/2021`
 - `Certificate of Merit` for completing `Student Scientific Research Project` in academic year `2021-2022`. Decision No.: `500/QĐ-ĐHKTL`, dated `April 20, 2022` of `Rector` of `UEL`.
