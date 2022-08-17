@@ -152,6 +152,8 @@ txt('''
 txt('''
 ## Work Experience
 ''')
+txt1('**Interim executive committee member of Youth Union class**, *K19406C UEL*, Vietnam',
+'`08/2019 - 10/2019`')
 txt1('**Organizer, content creator & designer of Media Department**, *[ITB Club](https://www.facebook.com/itbclub.uel)*, Vietnam',
 '`09/2019 - 12/2020`')
 txt1('**Organizer**, *[Ecommerce Unitour UEL](https://www.facebook.com/EcommerceUnitour)*, Vietnam',
