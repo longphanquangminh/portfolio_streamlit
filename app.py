@@ -48,7 +48,8 @@ img_column.image(image, use_column_width  = True)
 st.write('''
 # PHAN QUANG MINH LONG
 ##### A Front-end Developer from [Vietnam](https://en.wikipedia.org/wiki/Vietnam) 🇻🇳  
-##### [See my CV](https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view)
+##### [See My CV](https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view)
+##### [See My Website](https://longphanquangminh.github.io/Long-Phan-Resume)
 ''')
 txt('## Summary')
 # col.markdown('## Summary')
@@ -83,6 +84,7 @@ txt2('Stack Overflow', '[17742483](https://stackoverflow.com/users/17742483)')
 txt2('Kaggle', '[longphanquangminh](https://www.kaggle.com/longphanquangminh)')
 txt2('Behance', '[longphanquangminh](https://www.behance.net/longphanquangminh)')
 txt2('Google Developer', '[minhlong2605](https://developers.google.com/profile/u/minhlong2605)')
+txt2('Website', '[Click to access](https://longphanquangminh.github.io/Long-Phan-Resume)')
 
 #####################
 txt('## Education')
