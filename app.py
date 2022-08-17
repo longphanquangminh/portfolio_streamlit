@@ -93,6 +93,21 @@ txt('''
 - [Faculty of Information Systems](https://www.facebook.com/khoahttt.uel)
 - Specialization: Management Information System
 - Current GPA: `7.5 / 10`
+    - PROGRAMMING TECHNIQUES (3 credits): `7.5 / 10` (B+)
+    - DIGITAL INFRASTRUCTURE FOR INFORMATION SYSTEM (3 credits): `8.0 / 10` (A)
+    - APPLIED INFORMATICS (3 credits): `9.5 / 10` (A+)
+    - INTRODUCTION TO DATABASE (3 credits): `9.0 / 10` (A+)
+    - E-COMMERCE (3 credits): `8.5 / 10` (A)
+    - SAFETY AND SECURITY INFORMATION SYSTEM (3 credits): `9.0 / 10` (A+)
+    - MANAGEMENT INFORMATION SYSTEMS (3 credits): `9.5 / 10` (A+)
+    - BUSINESS INFORMATION SYSTEM (SAP) (3 credits): `10 / 10` (A+)
+    - ANALYSIS AND DESIGN OF MANAGEMENT INFORMATION SYSTEM (BA) (3 credits): `8.5 / 10` (A)
+    - INTEGRATED BUSINESS PROCESSES WITH ERP SYSTEMS (3 credits): `8.5 / 10` (A)
+    - BUSINESS WEBSITE DEVELOPMENT (3 credits): `7.5 / 10` (B+)
+    - DATABASE MANAGEMENT SYSTEM (3 credits): `9.0 / 10` (A+)
+    - ADVANCED WEB DEVELOPMENT (3 credits): `7.5 / 10` (B+)
+    - INFORMATION SYSTEM PROJECT MANAGEMENT (3 credits): `8.0 / 10` (A)
+    - ARTIFICIAL INTELLIGENCE AND DECISION SUPPORT SYSTEM (3 credits): `9.5 / 10` (A+)
 - Scholarship for High performance student `05/2021`
 - [Student with 5 Merits - Faculty Level](https://www.facebook.com/LCH.HTTT.UEL/photos/pcb.4923846807625977/4923844107626247) `11/2021`
 - `Certificate of Merit` for completing `Student Scientific Research Project` in academic year `2021-2022`. Decision No.: `500/QĐ-ĐHKTL`, dated `April 20, 2022` of `Rector` of `UEL`.
