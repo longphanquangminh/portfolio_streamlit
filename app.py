@@ -84,6 +84,7 @@ txt2('Stack Overflow', '[17742483](https://stackoverflow.com/users/17742483)')
 txt2('Kaggle', '[longphanquangminh](https://www.kaggle.com/longphanquangminh)')
 txt2('Behance', '[longphanquangminh](https://www.behance.net/longphanquangminh)')
 txt2('Google Developer', '[minhlong2605](https://developers.google.com/profile/u/minhlong2605)')
+txt2('LmssPlus', '[G0D OF JUNGLE](https://lmssplus.com/profile/G0D%20OF%20JUNGLE)')
 txt2('Website', '[Click to access](https://longphanquangminh.github.io/Long-Phan-Resume)')
 
 #####################
