@@ -84,6 +84,8 @@ txt2('Codecademy', '[longPhanQuangMinh9567554876](https://www.codecademy.com/pro
 txt2('Stack Overflow', '[17742483](https://stackoverflow.com/users/17742483)')
 txt2('Kaggle', '[longphanquangminh](https://www.kaggle.com/longphanquangminh)')
 txt2('Behance', '[longphanquangminh](https://www.behance.net/longphanquangminh)')
+txt2('Pinterest', '[minhlong2605](https://www.pinterest.com/minhlong2605)')
+txt2('Reddit', '[minhlong26052001](https://www.reddit.com/user/minhlong26052001)')
 txt2('Google Developer', '[minhlong2605](https://developers.google.com/profile/u/minhlong2605)')
 txt2('Youtube', '[Phan Quang Minh Long](https://www.youtube.com/channel/UC5oOhh4McMGJVAEDvRvDYGA)')
 txt2('LmssPlus', '[G0D OF JUNGLE](https://lmssplus.com/profile/G0D%20OF%20JUNGLE)')
