@@ -61,6 +61,7 @@ Throughout my university years, I've participated in various competitions, activ
 - 🌱 I’m currently learning ReactJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: [longpqm19406c@st.uel.edu.vn](mailto:longpqm19406c@st.uel.edu.vn?subject=HelloMinhLong).
+- 📚 My manga app: [HERE](https://mangapqml.glideapp.io)
 - 🇯🇵 I love anime:  `Dragon Ball`,  `One Piece`,  `Spy X Family`, ...
 ''')
 
