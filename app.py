@@ -90,6 +90,8 @@ txt2('Behance', '[longphanquangminh](https://www.behance.net/longphanquangminh)'
 txt2('Pinterest', '[minhlong2605](https://www.pinterest.com/minhlong2605)')
 txt2('Reddit', '[minhlong26052001](https://www.reddit.com/user/minhlong26052001)')
 txt2('Youtube', '[Phan Quang Minh Long](https://www.youtube.com/channel/UC5oOhh4McMGJVAEDvRvDYGA)')
+txt2('Smartr', '[Long Phan Quang Minh](https://www.smartr.me/me/phanquangminhlong)')
+txt2('Indeed', '[Long Phan Quang Minh](https://my.indeed.com/p/longp-srq07y0)')
 txt2('LmssPlus', '[G0D OF JUNGLE](https://lmssplus.com/profile/G0D%20OF%20JUNGLE)')
 txt2('Website', '[Click to access](https://longphanquangminh.github.io/Long-Phan-Resume)')
 
