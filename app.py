@@ -121,7 +121,9 @@ txt('''
     - INFORMATION SYSTEM PROJECT MANAGEMENT (3 credits): `8.0 / 10` (A)
     - BUSINESS INTELLIGENCE AND DECISION SUPPORT SYSTEM (`BI` and `DSS`) (3 credits): `9.5 / 10` (A+)
 - Scholarship for High performance student `05/2021`
-- [Student with 5 Merits - Faculty Level](https://www.facebook.com/LCH.HTTT.UEL/photos/pcb.4923846807625977/4923844107626247) `11/2021`
+- [Student of 5 Merits - Faculty Level](https://www.facebook.com/LCH.HTTT.UEL/photos/pcb.4923846807625977/4923844107626247) `11/2021`
+- [Student of 5 Merits - Faculty Level](https://media.licdn.com/dms/image/C562DAQFw5eYkoqXDWQ/profile-treasury-image-shrink_800_800/0/1670682374217?e=1671962400&v=beta&t=0Y3HQyDl5bCtOoSf2ZibDTxsHfSLhmQ-ktt7VSOHAzk) `11/2022`
+- Student of 5 Merits - University Level `12/2022`
 - `Certificate of Merit` for completing `Student Scientific Research Project` in academic year `2021-2022`. Decision No.: `500/QĐ-ĐHKTL`, dated `April 20, 2022` of `Rector` of `UEL`.
 ''')
 
@@ -178,54 +180,55 @@ txt1('**Apprenticeship**, *[CrossTech](https://crosstechhub.com)*, Vietnam',
 '`06/2022 - 07/2022`')
 txt1('**Bootcamp Participant**, *[KMS Technology, Inc.](https://www.linkedin.com/company/kms-technology)*, Vietnam',
 '`07/2022`')
+txt1('**Web Development Intern**, *[ZIGExN VeNtura Co., Ltd](https://www.linkedin.com/company/zigexn-ventura/)*, Vietnam',
+'`10/2022 - 12/2022`')
 
 #####################
 txt('''
 ## My Featured Projects
 ''')
-txt4('ABC Mobile Store','Our team has built a website selling electronic devices such as mobile phones, tablets for ABC Mobile Store. Using `Angular` framework, `Bootstrap`, `Eclipse`, `MySQL`, ... to build this entire website system. My role: Front-end Developer.','https://gitlab.com/abc334/abc-ms_abc-mobile-store')
-txt4('Reservation System (BA, UI/UX)','In order to comply with epidemic prevention regulations, help customers have a better experience and the restaurant can manage the number of customers more easily, our team has proposed and designed an online reservation system. Build responsive web-app system for user and admin roles. Specially, the mobile interface with CRO buttons provide a better experience for customers.','https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1')
+txt4('ABC Mobile Store', 'Our team has built a website selling electronic devices such as mobile phones, tablets for ABC Mobile Store. Using `Angular` framework, `Bootstrap`, `Eclipse`, `MySQL`, ... to build this entire website system. My role: Front-end Developer.', 'https://gitlab.com/abc334/abc-ms_abc-mobile-store')
+txt4('Reservation System (BA, UI/UX)', 'In order to comply with epidemic prevention regulations, help customers have a better experience and the restaurant can manage the number of customers more easily, our team has proposed and designed an online reservation system. Build responsive web-app system for user and admin roles. Specially, the mobile interface with CRO buttons provide a better experience for customers.', 'https://www.figma.com/file/DGwoWZ1yyR8WQ77YrrTyx6/Online-Reservation-System?node-id=0%3A1')
 txt4('Beverage Recognition', 'The project is used to identify beverage brands in Vietnam. Based on data about photos of beverage products that the team collects themselves on [Kaggle](https://www.kaggle.com), [Google](https://www.google.com) and [VnExpress](https://vnexpress.net/), our team has built a model that can recognize logos of beverage brands in Vietnam using `SSD Object Detection` and `CNN`. Our presentation: [Youtube](https://www.youtube.com/watch?v=E11CZIF5GmI)', 'https://github.com/longphanquangminh/streamlit-beverage-recognition')
-txt4('Unity AR UEL App','Build augmented reality applications by Unity for new college students to discover school information vividly (Faculty-level SCIENCE RESEARCH).','CH Play: https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi')
-txt4('MarPet Website','Our learning team has implemented a website that sells pet food and accessories, specifically dogs and cats, to provide online pet products and services for the spiritual well-being of people. Using `Angular` framework, `Bootstrap`, `MongoDB`, `Node.js` & `Express.js` to build this entire website system. Detail: Designing and deciding on the visual layout of a website; Changing the code, software or graphics of existing websites; Researching new technologies, software packages; CRUD products, administrators and users; Testing the website.','https://github.com/Pet-Shop-Dev')
-txt4('BI Solution for HR Dept. in Adventure Works Cycles','Our learning team has found out, studied more about [Adventure Works Cycles](https://www.linkedin.com/pulse/adventure-work-cycles-jayant-velichety), especially the HR department, and used technology software such as `SQL Server` (`ETL`, `SSIS`, `SSAS`) and `Power BI` to serve project goals. Make raw data structured and analyzable, visualize them as dashboards for better and clearer reports, so that problems and advantages of employees, company can be discovered supporting more effective decision making.','https://drive.google.com/file/d/1_unqth-DUPpMG1mC-ED51Ye5j0EubE59/view?usp=sharing')
-txt4('KMS ImageFinder','Our team won the `1st prize` (Technical Challenge Winner) of `KMS Fresher Bootcamp 2022 program` with the topic "Events: Pictures Finder": Build a website/tool to make it easier for marathon runners to collect their photos on `Google Drive` and `other sites` (in the future) based on their facial traits. My role: Front-end developer (`Angular`), logo design, support work related to using `API` on the interface.','https://fe-oql27hnv2q-as.a.run.app/home')
+txt4('Unity AR UEL App', 'Build augmented reality applications by Unity for new college students to discover school information vividly (Faculty-level SCIENCE RESEARCH).', 'CH Play: https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi')
+txt4('MarPet Website', 'Our learning team has implemented a website that sells pet food and accessories, specifically dogs and cats, to provide online pet products and services for the spiritual well-being of people. Using `Angular` framework, `Bootstrap`, `MongoDB`, `Node.js` & `Express.js` to build this entire website system. Detail: Designing and deciding on the visual layout of a website; Changing the code, software or graphics of existing websites; Researching new technologies, software packages; CRUD products, administrators and users; Testing the website.', 'https://github.com/Pet-Shop-Dev')
+txt4('BI Solution for HR Dept. in Adventure Works Cycles', 'Our learning team has found out, studied more about [Adventure Works Cycles](https://www.linkedin.com/pulse/adventure-work-cycles-jayant-velichety), especially the HR department, and used technology software such as `SQL Server` (`ETL`, `SSIS`, `SSAS`) and `Power BI` to serve project goals. Make raw data structured and analyzable, visualize them as dashboards for better and clearer reports, so that problems and advantages of employees, company can be discovered supporting more effective decision making.', 'https://drive.google.com/file/d/1_unqth-DUPpMG1mC-ED51Ye5j0EubE59/view?usp=sharing')
+txt4('KMS ImageFinder', 'Our team won the `1st prize` (Technical Challenge Winner) of `KMS Fresher Bootcamp 2022 program` with the topic "Events: Pictures Finder": Build a website/tool to make it easier for marathon runners to collect their photos on `Google Drive` and `other sites` (in the future) based on their facial traits. My role: Front-end developer (`Angular`), logo design, support work related to using `API` on the interface.', 'https://www.linkedin.com/posts/phanquangminhlong_team08infinity-kmsfresherbootcamp2022-activity-6958825145163554817-IHDU')
 
 
 #####################
 txt('''
 ## Skills
 ''')
-txt3('Programming', '`Basic C# (Unity AR)`')
-txt3('Python Library (Basic)', '`numpy`, `pandas`, `matplotlib`, ...')
-# txt3('Web development', '`Angular`, `HTML`, `CSS`, `Javascript`, `Typescript`')
+txt3('Front-end', '`HTML`, `CSS`, `Javascript`, `Typescript`, `Bootstrap`')
 txt3('Back-end', '`Javascript`, `Node.JS`, `Express.JS`, `MongoDB`')
-txt3('Front-end', '`HTML`, `CSS`, `Javascript`, `Typescript`')
-txt3('Framework', '`Angular`, `Bootstrap`')
+txt3('Framework', '`Angular`, `Ruby on Rails`')
 txt3('Database', '`Microsoft SQL Server`, `Microsoft Excel`')
 txt3('Tool', '`Microsoft SQL Server`, `Postman`')
+txt3('Programming', '`Basic C# (Unity AR)`')
+txt3('Python Library (Basic)', '`numpy`, `pandas`, `matplotlib`, ...')
 txt3('Design (Basic)', '`Figma`, `Adobe Photoshop`, `Adobe Illustrator`')
-txt3('Version Control', '`Git`')
+txt3('Version Control', '`Git`, `GitHub`')
 txt3('Office (Basic)', '`Microsoft Word`, `Microsoft Excel`, `Microsoft Powerpoint`')
-txt3('Manual Testing','')
+txt3('Manual Testing', '')
 
 #####################
 txt('''
 ## Highlighted Licenses & Certifications
 ''')
-txt4('08/2019','[IELTS](https://en.wikipedia.org/wiki/International_English_Language_Testing_System) Academic 5.5 (Listening 5.5 Reading 5.5 Writing 6.0 Speaking 5.0)','[myuel.uel.edu.vn/Modules/UIS/images/chungchiNN/16_IELTS_K194060852.jpg](https://myuel.uel.edu.vn/Modules/UIS/images/chungchiNN/16_IELTS_K194060852.jpg)')
-txt4('08/2021','[HackerRank](https://en.wikipedia.org/wiki/HackerRank) [SQL](https://en.wikipedia.org/wiki/SQL) (INTERMEDIATE)','[www.hackerrank.com/certificates/5c8725fc537b](https://www.hackerrank.com/certificates/5c8725fc537b)')
-txt4('03/2022','[MOS WORD 2016](https://docs.microsoft.com/en-us/certifications/mos-word-2016) ([IIG Vietnam](https://iigvietnam.com/en))','https://drive.google.com/file/d/1B5P2I1EJ_YJWCGHgmL53J3URXifTgNNX/view')
-txt4('04/2022','[Coursera](https://en.wikipedia.org/wiki/Coursera) FRONT-END WEB UI FRAMEWORKS AND TOOLS: [BOOTSTRAP](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)) 4','https://coursera-certificate-images.s3.amazonaws.com/VPTQ5YLCBDMT')
+txt4('08/2019', '[IELTS](https://en.wikipedia.org/wiki/International_English_Language_Testing_System) Academic 5.5 (Listening 5.5 Reading 5.5 Writing 6.0 Speaking 5.0)', '[myuel.uel.edu.vn/Modules/UIS/images/chungchiNN/16_IELTS_K194060852.jpg](https://myuel.uel.edu.vn/Modules/UIS/images/chungchiNN/16_IELTS_K194060852.jpg)')
+txt4('08/2021', '[HackerRank](https://en.wikipedia.org/wiki/HackerRank) [SQL](https://en.wikipedia.org/wiki/SQL) (INTERMEDIATE)', '[www.hackerrank.com/certificates/5c8725fc537b](https://www.hackerrank.com/certificates/5c8725fc537b)')
+txt4('03/2022', '[MOS WORD 2016](https://docs.microsoft.com/en-us/certifications/mos-word-2016) ([IIG Vietnam](https://iigvietnam.com/en))', 'https://drive.google.com/file/d/1B5P2I1EJ_YJWCGHgmL53J3URXifTgNNX/view')
+txt4('04/2022', '[Coursera](https://en.wikipedia.org/wiki/Coursera) FRONT-END WEB UI FRAMEWORKS AND TOOLS: [BOOTSTRAP](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)) 4', 'https://coursera-certificate-images.s3.amazonaws.com/VPTQ5YLCBDMT')
 
 #####################
 txt('''
 ## Volunteering
 ''')
-txt4('02/2020','2020 [Volunteer spring campaign](https://www.facebook.com/xuantinhnguyen.uel) – FIS UEL','https://www.facebook.com/LCH.HTTT.UEL/photos/pcb.2940515719292439/2940465805964097')
-txt4('03/2020','2020 [Earth Hour Campaign](https://www.facebook.com/giotraidatvn) Volunteer (Online)','https://drive.google.com/file/d/1Jnfg8SidPK-xSjTsDyju4Q7FZyrh7cy6/view?usp=sharing')
-txt4('07/2020','2020 VIETNAM MAPPING EVENT BY [REDBULL](https://www.facebook.com/RedBullVN) X [HCM-SAC](https://www.facebook.com/hotrohssv) ([ASIAN RECORD](https://worldkings.org/news/asia-records-institute/worldkings-worldkings-news-asia-records-institute-asri-vietkings-red-bull-vietnam-achieved-asian-record-in-the-honor-of-positive-day-july-11-2020)) POSITIVE DAY','https://drive.google.com/file/d/1bwziixVCNJ_ZdnYisaAhVrLYXUIqzMsR/view?usp=sharing')
-txt4('11/2020 - 12/2020','2020 [VNU Will Run](https://www.facebook.com/VNUWILLRun) Foundation','https://drive.google.com/file/d/1otQjq1TGZow889OSjplYBylpPBjhUfej/view?usp=sharing')
-txt4('12/2020','2020 [VUG](https://www.facebook.com/VUG.vn) Running','https://drive.google.com/file/d/1z5GMc14W8vrSYAX6p4hL7vLnSD1zNC9i/view?usp=sharing')
-txt4('03/2022','2022 Earth Hour Campaign Volunteer (Online)','https://drive.google.com/file/d/1oH5yFWcaUVLp83wxX6erCpg_YchFANcW/view?usp=sharing')
-txt4('07/2022','2022 [National university entrance exam Support Campaign](https://www.facebook.com/tsmt.tphcm)','https://drive.google.com/file/d/1XEtoAee67J2qU-FWxp9gYwaEVTM3jthZ/view?usp=sharing')
+txt4('02/2020', '2020 [Volunteer spring campaign](https://www.facebook.com/xuantinhnguyen.uel) – FIS UEL', 'https://www.facebook.com/LCH.HTTT.UEL/photos/pcb.2940515719292439/2940465805964097')
+txt4('03/2020', '2020 [Earth Hour Campaign](https://www.facebook.com/giotraidatvn) Volunteer (Online)', 'https://drive.google.com/file/d/1Jnfg8SidPK-xSjTsDyju4Q7FZyrh7cy6/view?usp=sharing')
+txt4('07/2020', '2020 VIETNAM MAPPING EVENT BY [REDBULL](https://www.facebook.com/RedBullVN) X [HCM-SAC](https://www.facebook.com/hotrohssv) ([ASIAN RECORD](https://worldkings.org/news/asia-records-institute/worldkings-worldkings-news-asia-records-institute-asri-vietkings-red-bull-vietnam-achieved-asian-record-in-the-honor-of-positive-day-july-11-2020)) POSITIVE DAY', 'https://drive.google.com/file/d/1bwziixVCNJ_ZdnYisaAhVrLYXUIqzMsR/view?usp=sharing')
+txt4('11/2020 - 12/2020', '2020 [VNU Will Run](https://www.facebook.com/VNUWILLRun) Foundation', 'https://drive.google.com/file/d/1otQjq1TGZow889OSjplYBylpPBjhUfej/view?usp=sharing')
+txt4('12/2020', '2020 [VUG](https://www.facebook.com/VUG.vn) Running', 'https://drive.google.com/file/d/1z5GMc14W8vrSYAX6p4hL7vLnSD1zNC9i/view?usp=sharing')
+txt4('03/2022', '2022 Earth Hour Campaign Volunteer (Online)', 'https://drive.google.com/file/d/1oH5yFWcaUVLp83wxX6erCpg_YchFANcW/view?usp=sharing')
+txt4('07/2022', '2022 [National university entrance exam Support Campaign](https://www.facebook.com/tsmt.tphcm)', 'https://drive.google.com/file/d/1XEtoAee67J2qU-FWxp9gYwaEVTM3jthZ/view?usp=sharing')
