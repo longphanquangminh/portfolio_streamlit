@@ -72,7 +72,7 @@ txt('''
 # txt2('Phone', '🇻🇳 [(+84) 852 197 589](tel:+84852197589)')
 txt2('Zalo', '🇻🇳 [(+84) 852 197 589](https://zalo.me/0852197589)')
 txt2('Address', '🇻🇳 [District 10, Ho Chi Minh City, Vietnam](https://www.google.com/maps/place/District+10,+Ho+Chi+Minh+City/@10.7727179,106.669428,15z/data=!3m1!4b1!4m5!3m4!1s0x31752edc7bd9fd65:0x7500396cc3a60d04!8m2!3d10.7745965!4d106.6679542)')
-txt2('Email', '[longpqm19406c@st.uel.edu.vn](mailto:longpqm19406c@st.uel.edu.vn?subject=HelloMinhLong)')
+txt2('Email', '[phanquangminhlong@gmail.com](mailto:phanquangminhlong@gmail.com?subject=Hello Minh Long)')
 txt2('LinkedIn PREMIUM', '[phanquangminhlong](https://www.linkedin.com/in/phanquangminhlong)')
 txt2('GitHub PRO', '[longphanquangminh](https://github.com/longphanquangminh)')
 txt2('GitLab', '[longpqm19406c](https://gitlab.com/longpqm19406c)')
