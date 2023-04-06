@@ -75,7 +75,6 @@ txt2('Address', '🇻🇳 [District 10, Ho Chi Minh City, Vietnam](https://www.g
 txt2('Email', '[phanquangminhlong@gmail.com](mailto:phanquangminhlong@gmail.com?subject=Hello Minh Long)')
 txt2('LinkedIn PREMIUM', '[phanquangminhlong](https://www.linkedin.com/in/phanquangminhlong)')
 txt2('GitHub PRO', '[longphanquangminh](https://github.com/longphanquangminh)')
-txt2('GitLab', '[longpqm19406c](https://gitlab.com/longpqm19406c)')
 txt2('Google Developer', '[minhlong2605](https://developers.google.com/profile/u/minhlong2605)')
 txt2('Google Developer Groups', '[Long Phan Quang Minh](https://gdg.community.dev/u/mgzjtx)')
 txt2('CH Play', '[Phan Quang Minh Long](https://play.google.com/store/apps/developer?id=Phan+Quang+Minh+Long)')
