@@ -1,0 +1,29 @@
+ul {
+    padding-left: 1.5rem;
+}
+
+h1 {
+    text-align:center;
+}
+
+h5 {
+    text-align:center;
+}
+code {
+    background-color: #0f6328 !important;
+    font-family: 'Source Code Pro'!important;
+    font-size: 9px !important;
+    color: rgb(255, 253, 251) !important;
+    padding: 2px !important;
+    border-radius: 4px !important;
+  }
+#MainMenu {
+    visibility: hidden;
+}
+footer {
+    visibility: hidden;
+}
+header {
+    visibility: hidden;
+}
+
