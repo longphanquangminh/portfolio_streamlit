@@ -41,10 +41,6 @@ st.set_page_config(page_title='Phan Quang Minh Long - Portfolio',page_icon="./im
 with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
 
-image = Image.open('./image/MinhLong-modified.png')
-_, img_column, _ = st.columns((2,1,2))
-img_column.image(image, use_column_width  = True)
-
 st.write('''
 # PHAN QUANG MINH LONG
 ##### A Front-end Developer from [Vietnam](https://en.wikipedia.org/wiki/Vietnam) 🇻🇳  
